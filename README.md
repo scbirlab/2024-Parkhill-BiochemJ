@@ -1,8 +1,10 @@
 # Modelling the discovery of antibiotics
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/scbirlab/2024-Parkhill-BiochemJ/main)
+
 Jupyter notebook and data supporting Figure 1 from Parkhill S, Johnson EO, Integrating bacterial molecular genetics with chemical biology for renewed antibacterial drug discovery, _Biochemical Journal_ (2024).
 
-Access the notebook [here](https://github.com/scbirlab/2024-Parkhill-BiochemJ/blob/main/modelling-abx-discovery.ipynb).
+Access the notebook [here](https://github.com/scbirlab/2024-Parkhill-BiochemJ/blob/main/modelling-abx-discovery.ipynb). Run it interactively in Binder [here](https://mybinder.org/v2/gh/scbirlab/2024-Parkhill-BiochemJ/main).
 
 **Figure 1.** The rate of antibacterial drug discovery has reached a plateau, while the rate of emergence of new resistance is constant.
 
