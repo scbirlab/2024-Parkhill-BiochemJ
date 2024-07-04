@@ -2,7 +2,7 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/scbirlab/2024-Parkhill-BiochemJ/main?labpath=modelling-abx-discovery.ipynb)
 
-Jupyter notebook and data supporting Figure 1 from Parkhill S, Johnson EO, Integrating bacterial molecular genetics with chemical biology for renewed antibacterial drug discovery, _Biochemical Journal_ (2024).
+Jupyter notebook and data supporting Figure 1 from [Parkhill SL, Johnson EO, Integrating bacterial molecular genetics with chemical biology for renewed antibacterial drug discovery, _Biochemical Journal_ (2024) 481 (13): 839–864](https://doi.org/10.1042/BCJ20220062).
 
 Access the notebook [here](https://github.com/scbirlab/2024-Parkhill-BiochemJ/blob/main/modelling-abx-discovery.ipynb). Run it interactively in Binder [here](https://mybinder.org/v2/gh/scbirlab/2024-Parkhill-BiochemJ/main?labpath=modelling-abx-discovery.ipynb).
 
@@ -18,4 +18,4 @@ Access the notebook [here](https://github.com/scbirlab/2024-Parkhill-BiochemJ/bl
 
 <img src="nb-outputs/resistance-curves.png" alt="" width="300">
 
-**(C)** Poisson maximum likelihood best fits for the dynamics of antibacterial drug discovery. The number of classes with resistance not-yet-detected (light blue line) as a function of time was modelled as the difference between the number of discovered classes, $D$ (orange line), and the number of classes with detected resistance, $R$ (dark blue line). $R$ was modelled as exponential growth with rate $t_{1/2}$. $D$ was modelled as the coupon collector problem when sampling from $k$ antibacterial drug classes at a constant rate $n$ after a ~28 year lag phase, tlag. Data were obtained from [Stennett, Back, and Race](https://doi.org/10.3390/antibiotics11091237).
+**(C)** Poisson maximum likelihood best fits for the dynamics of antibacterial drug discovery. The number of classes with resistance not-yet-detected (light blue line) as a function of time was modelled as the difference between the number of discovered classes, $D$ (orange line), and the number of classes with detected resistance, $R$ (dark blue line). $R$ was modelled as exponential growth with rate $t_{1/2}$. $D$ was modelled as the coupon collector problem when sampling from $k$ antibacterial drug classes at a constant rate $n$ after a ~28 year lag phase, $t_{\text{lag}}$. Data were obtained from [Stennett, Back, and Race](https://doi.org/10.3390/antibiotics11091237).
